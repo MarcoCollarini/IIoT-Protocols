@@ -1,0 +1,151 @@
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.exe
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.deps.json
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.runtimeconfig.json
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.runtimeconfig.dev.json
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.pdb
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.pdb
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csprojAssemblyReference.cache
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.AssemblyInfoInputs.cache
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.AssemblyInfo.cs
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csproj.CopyComplete
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.dll
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.pdb
+C:\Users\Alessandro Vendrame\Desktop\Scuola\IIoT-anno2\Cloud-Dottor\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.genruntimeconfig.cache
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.exe
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.deps.json
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.runtimeconfig.json
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.runtimeconfig.dev.json
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.pdb
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.pdb
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csprojAssemblyReference.cache
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csproj.CoreCompileInputs.cache
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.AssemblyInfoInputs.cache
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.AssemblyInfo.cs
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csproj.CopyComplete
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.dll
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.pdb
+C:\esercizio-valle\client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.genruntimeconfig.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.exe
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.deps.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.runtimeconfig.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.runtimeconfig.dev.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\M2Mqtt.Net.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csprojAssemblyReference.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csproj.CoreCompileInputs.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.AssemblyInfoInputs.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.AssemblyInfo.cs
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.csproj.CopyComplete
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.PositionSensor\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.PositionSensor.genruntimeconfig.cache
