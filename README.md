@@ -2,6 +2,21 @@
   <img src="/ref/logo.png?raw=true" />
 </p>
 
+# Indice
+1. [**Il Progetto**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#il-progetto)
+   - [**Client**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#client)
+   - [**Server**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#server)
+2. [**Protocollo HTTP**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#protocollo-http)
+   - [**POST-Rilevazione**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#rilevazione-post-apidetection)
+   - [**POST-Monopattino**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#monopattino--post-apiscooter)
+   - [**POST-Sensore**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#sensore--post-apisensor)
+   - [**Response**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#response)
+3. [**Protocollo MQTT**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#protocollo-mqtt)
+   - [**Gestione messaggi da client a server**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#gestione-messaggi-da-client-a-server)
+   - [**Gestione messaggi da server a client**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#gestione-messaggi-da-server-a-client)
+   - [**Test**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#test)
+4. [**Il team**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#il-team)
+
 # Il progetto
 Si sviuppi un'applicativo che permetta lo scambio di dati tra sensori (*client*) e un server. 
 
@@ -62,7 +77,6 @@ Si richiede inoltre, che la comunicazione tra i dispositivi, avvenga tramite l'u
 
 
 ### Response 
-
 **Formato JSON**
 
 | **Nome variabile**      | **Tipo variabile**        |
@@ -100,14 +114,14 @@ Utilizzo del broker **test.mosquitto.org**
 |-------------------------|---------------------------|
 | Status                  | bool                      |
 
-**TEST**
+## **TEST**
 
 - Server → publish su topic **sensor/1/status**
 - Client → subscribe su topic **sensor/1/status**
  
- ***NOTE***
+ ***NOTE:***
  
-Tramite questa funzionalità è possibile andare ad attivare/disattivare un determinato sensore.
+  Tramite questa funzionalità è possibile andare ad attivare/disattivare un determinato sensore.
 
 # Il team
 
