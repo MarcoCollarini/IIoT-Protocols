@@ -11,11 +11,13 @@ namespace ITS.Vendrame.Scooter.Data.Models.ProtocolsHelper
     public class MqttClientModel
     {
         private MqttClient client;
-        public MqttClientModel(string brokerAddress)
-        {
-            client = new MqttClient(brokerAddress,10234,false,null,null,MqttSslProtocols.SSLv3);
+        private string brokerAddress = "192.168.104.60";
 
-            var code = client.Connect(Guid.NewGuid().ToString());
+        public MqttClientModel()
+        {
+            client = new MqttClient(brokerAddress,1883,false,null,null,MqttSslProtocols.SSLv3);
+
+            var code = client.Connect(Guid.NewGuid().ToString(),null,null,true,1,true,"lastWill","Mi sono disconnesso", true, 200);
         }
 
         public void SendMsgAsync(string topic, string message)

@@ -1,9 +1,0 @@
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\bin\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.deps.json
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\bin\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.dll
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\obj\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.csprojAssemblyReference.cache
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\obj\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.AssemblyInfoInputs.cache
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\obj\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.AssemblyInfo.cs
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\bin\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.pdb
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\obj\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.csproj.CoreCompileInputs.cache
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\obj\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.dll
-C:\Users\marco\OneDrive\Desktop\CollariniVendrame.IIOT.Server.MQTT\CollariniVendrame.IIOT.Server.StorageSQL\obj\Debug\netstandard2.0\CollariniVendrame.IIOT.Server.StorageSQL.pdb

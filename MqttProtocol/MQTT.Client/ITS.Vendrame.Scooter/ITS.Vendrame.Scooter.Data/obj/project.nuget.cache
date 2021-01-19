@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PPU1bjXPAmiYcGHGGGDtgtDV8xXxJg0GDcIFXzCeLuo3nC1ZuRdGcbMavH9wVDJf3cTjucwyxgvVgiN63UOR1g==",
+  "dgSpecHash": "mPE5jsnfD3ODsK7rU8yCMBRR4py1wqkPYwIrFY+c2J1PP3g1mxUCPns2lWiBT/wvHshRTfuT51oMjMJ7Xa7M+g==",
   "success": true,
   "projectFilePath": "C:\\IIoT-Scooters_Valle\\MqttProtocol\\MQTT.Client\\ITS.Vendrame.Scooter\\ITS.Vendrame.Scooter.Data\\ITS.Vendrame.Scooter.Data.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,6 @@
     "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\azure.storage.queues\\12.5.0\\azure.storage.queues.12.5.0.nupkg.sha512",
     "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\m2mqtt\\4.3.0\\m2mqtt.4.3.0.nupkg.sha512",
     "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
-    "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "C:\\Users\\Alessandro Vendrame\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
@@ -26,10 +24,10 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'M2Mqtt 4.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'M2Mqtt 4.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.1'. This package may not be fully compatible with your project.",
       "libraryId": "M2Mqtt",
       "targetGraphs": [
-        ".NETStandard,Version=v2.0"
+        ".NETStandard,Version=v2.1"
       ]
     }
   ]

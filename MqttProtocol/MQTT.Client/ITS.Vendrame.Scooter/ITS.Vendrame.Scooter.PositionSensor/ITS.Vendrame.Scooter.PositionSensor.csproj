@@ -11,5 +11,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ITS.Vendrame.Scooter.Data\ITS.Vendrame.Scooter.Data.csproj" />
+    <ProjectReference Include="..\ITS.Vendrame.Scooter.QueueLibrary\ITS.Vendrame.Scooter.QueueLibrary.csproj" />
   </ItemGroup>
 </Project>

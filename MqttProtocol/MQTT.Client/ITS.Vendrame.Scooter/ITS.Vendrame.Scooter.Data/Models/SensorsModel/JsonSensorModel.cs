@@ -8,5 +8,10 @@ namespace ITS.Vendrame.Scooter.Data.Models.SensorsModel
     {
         public string SensorValue { get; set; }
         public DateTime SensorDetectionDate { get; set; }
+
+        public JsonSensorModel()
+        {
+
+        }
     }
 }

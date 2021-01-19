@@ -1,0 +1,9 @@
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\bin\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.deps.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\bin\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\bin\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\obj\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.csprojAssemblyReference.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\obj\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.csproj.CoreCompileInputs.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\obj\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.AssemblyInfoInputs.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\obj\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.AssemblyInfo.cs
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\obj\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.Data\obj\Debug\netstandard2.1\ITS.Vendrame.Scooter.Data.pdb
