@@ -1,0 +1,12 @@
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.deps.json
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.AssemblyInfoInputs.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.AssemblyInfo.cs
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\bin\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.Data.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.csprojAssemblyReference.cache
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.csproj.CopyComplete
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.dll
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.pdb
+C:\IIoT-Scooters_Valle\MqttProtocol\MQTT.Client\ITS.Vendrame.Scooter\ITS.Vendrame.Scooter.QueueLibrary\obj\Debug\netcoreapp3.1\ITS.Vendrame.Scooter.QueueLibrary.csproj.CoreCompileInputs.cache
