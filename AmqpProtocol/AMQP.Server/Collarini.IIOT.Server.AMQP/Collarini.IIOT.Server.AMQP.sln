@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollariniVendrame.IIOT.Server.StorageSQL", "CollariniVendrame.IIOT.Server.StorageSQL\CollariniVendrame.IIOT.Server.StorageSQL.csproj", "{96B13086-1B02-4A5D-AB43-CC4326EA934F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollariniVendrame.IIOT.Server.BatteryConsumer", "CollariniVendrame.IIOT.Server.BatteryConsumer\CollariniVendrame.IIOT.Server.BatteryConsumer.csproj", "{B4C3D251-425C-48CC-BB4D-69CE15142972}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollariniVendrame.IIOT.Server.MovementConsumer", "CollariniVendrame.IIOT.Server.MovementConsumer\CollariniVendrame.IIOT.Server.MovementConsumer.csproj", "{8B3A6593-5BE2-4063-A9EC-0CF149077342}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollariniVendrame.IIOT.Server.PositionConsumer", "CollariniVendrame.IIOT.Server.PositionConsumer\CollariniVendrame.IIOT.Server.PositionConsumer.csproj", "{391CAD52-298D-4C9A-9CED-3E26147DB6F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollariniVendrame.IIOT.Server.SpeedConsumer", "CollariniVendrame.IIOT.Server.SpeedConsumer\CollariniVendrame.IIOT.Server.SpeedConsumer.csproj", "{6531EB68-E3C0-4E60-9D39-2BCC9163DFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B13086-1B02-4A5D-AB43-CC4326EA934F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B13086-1B02-4A5D-AB43-CC4326EA934F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B13086-1B02-4A5D-AB43-CC4326EA934F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B13086-1B02-4A5D-AB43-CC4326EA934F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C3D251-425C-48CC-BB4D-69CE15142972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C3D251-425C-48CC-BB4D-69CE15142972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C3D251-425C-48CC-BB4D-69CE15142972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C3D251-425C-48CC-BB4D-69CE15142972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3A6593-5BE2-4063-A9EC-0CF149077342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3A6593-5BE2-4063-A9EC-0CF149077342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3A6593-5BE2-4063-A9EC-0CF149077342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3A6593-5BE2-4063-A9EC-0CF149077342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391CAD52-298D-4C9A-9CED-3E26147DB6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391CAD52-298D-4C9A-9CED-3E26147DB6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391CAD52-298D-4C9A-9CED-3E26147DB6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391CAD52-298D-4C9A-9CED-3E26147DB6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6531EB68-E3C0-4E60-9D39-2BCC9163DFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6531EB68-E3C0-4E60-9D39-2BCC9163DFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6531EB68-E3C0-4E60-9D39-2BCC9163DFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6531EB68-E3C0-4E60-9D39-2BCC9163DFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8471313-44B5-4A7C-A47B-5B8E5F40A306}
+	EndGlobalSection
+EndGlobal

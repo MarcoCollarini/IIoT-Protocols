@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "CollariniVendrame.IIOT.Server.Worker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
