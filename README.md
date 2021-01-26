@@ -3,21 +3,21 @@
 </p>
 
 # Indice
-1. [**Il Progetto**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#il-progetto)
-   - [**Client**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#client)
-   - [**Server**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#server)
-2. [**Protocollo HTTP**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#protocollo-http)
-   - [**POST-Rilevazione**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#rilevazione-post-apidetection)
-   - [**POST-Monopattino**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#monopattino--post-apiscooter)
-   - [**POST-Sensore**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#sensore--post-apisensor)
-   - [**Response**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#response)
-3. [**Protocollo MQTT**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#protocollo-mqtt)
-   - [**Gestione messaggi da client a server**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#gestione-messaggi-da-client-a-server)
-   - [**Gestione messaggi da server a client**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#gestione-messaggi-da-server-a-client)
-   - [**Test**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#test)
-4. [**Protocollo AMQP**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#protocollo-amqp)
-   - [**Gestione messaggi da client a server**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#gestione-messaggi-da-client-a-server-1)
-5. [**Il team**](https://github.com/alessandrovendrame/IIoT-Scooters_Valle#il-team)
+1. [**Il Progetto**](https://github.com/MarcoCollarini/IIoT-Protocols#il-progetto)
+   - [**Client**](https://github.com/MarcoCollarini/IIoT-Protocols#client)
+   - [**Server**](https://github.com/MarcoCollarini/IIoT-Protocols#server)
+2. [**Protocollo HTTP**](https://github.com/MarcoCollarini/IIoT-Protocols#protocollo-http)
+   - [**POST-Rilevazione**](https://github.com/MarcoCollarini/IIoT-Protocols#rilevazione-post-apidetection)
+   - [**POST-Monopattino**](https://github.com/MarcoCollarini/IIoT-Protocols#monopattino--post-apiscooter)
+   - [**POST-Sensore**](https://github.com/MarcoCollarini/IIoT-Protocols#sensore--post-apisensor)
+   - [**Response**](https://github.com/MarcoCollarini/IIoT-Protocols#response)
+3. [**Protocollo MQTT**](https://github.com/MarcoCollarini/IIoT-Protocols#protocollo-mqtt)
+   - [**Gestione messaggi da client a server**](https://github.com/MarcoCollarini/IIoT-Protocols#gestione-messaggi-da-client-a-server)
+   - [**Gestione messaggi da server a client**](https://github.com/MarcoCollarini/IIoT-Protocols#gestione-messaggi-da-server-a-client)
+   - [**Test**](https://github.com/MarcoCollarini/IIoT-Protocols#test)
+4. [**Protocollo AMQP**](https://github.com/MarcoCollarini/IIoT-Protocols#protocollo-amqp)
+   - [**Gestione messaggi da client a server**](https://github.com/MarcoCollarini/IIoT-Protocols#gestione-messaggi-da-client-a-server-1)
+5. [**Il team**](https://github.com/MarcoCollarini/IIoT-Protocols#il-team)
 
 # Il progetto
 Si sviuppi un'applicativo che permetta lo scambio di dati tra sensori (*client*) e un server. 
